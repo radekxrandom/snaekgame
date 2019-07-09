@@ -10,6 +10,7 @@ class moving {
     this.ydir = 0;
     rect(this.x, this.y, 10, 10);
     //fill(255, 204, 0);
+    
   }
 
   setDir(xdir, ydir) {
